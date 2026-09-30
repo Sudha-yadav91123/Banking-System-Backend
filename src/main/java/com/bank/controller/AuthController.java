@@ -15,7 +15,10 @@ import com.bank.service.CustomerService;
 
 import jakarta.servlet.http.HttpSession;
 
+<<<<<<< HEAD
 @CrossOrigin(origins = "http://localhost:5173", allowCredentials = "true")
+=======
+>>>>>>> d3cb49920535d2a3d6a61a26ea04cdcfbeb645af
 @RestController
 @RequestMapping("/api/auth")
 public class AuthController {
