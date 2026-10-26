@@ -8,7 +8,7 @@ public class BankingSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BankingSystemApplication.class, args);
-		System.err.println("Welcomeeee");
+		System.err.println("Welcomeeeeeeee");
 	}
 
 }
